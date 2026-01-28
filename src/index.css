@@ -11,3 +11,15 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+body.bg-secondary p {
+  color: #fff !important;
+}
+
+body.bg-secondary h3 {
+  color: #fff !important;
+}
+
+body p {
+  color: black;
+}
